@@ -151,7 +151,6 @@ This project is licensed under the MIT License. For more details, please refer t
 Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
 
 &#xa0;
-okie
 
 <a href="#top">Back to top</a>
 
